@@ -6,3 +6,4 @@ A powerful library for computer vision tasks. It helps with reading, manipulatin
 SciPy: A library used for scientific and technical computing. It includes modules for optimization, integration, interpolation, eigenvalue problems, and other advanced mathematical functions.
 ----------------pip install scipy -------
 
+IDE Setup: If you're using an IDE like PyCharm or VSCode, ensure that the IDE is configured to use the same Python environment where you've installed these packages.
